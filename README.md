@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Yifan (Joe) Deng 👋
+#### ITP @NYU Tisch | Previously UIUX @HARMAN Inetrnational, SAMSUNG | HCI Researcher @Tsinghua University
+🌐 [joedeng.design](https://www.joedeng.design) | 📬 yd3015@nyu.edu | [LinkedIn](https://linkedin.com/in/yifan-deng-b471b2252)
 
-<!--
-**yifandeng2002/yifandeng2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Design:** Figma, Adobe XD, Sketch, After Effects  
+**Frontend:** HTML, CSS, JS, React, Tailwind  
+**Code/Hardware:** Python, Arduino, ESP32, WebSocket, MQTT  
+**Music Tech:** Ableton, Max/MSP, Dolby Atmos, Sonic Pi  
+**3D/VR:** Unity, C#
+**Tools:** GitHub, Processing, Lottie, Audition
