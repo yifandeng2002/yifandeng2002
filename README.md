@@ -1,5 +1,5 @@
 # Hi, I'm Yifan (Joe) Deng 👋
-#### ITP @NYU Tisch | Previously UIUX @HARMAN Inetrnational, SAMSUNG | HCI Researcher @Tsinghua University
+#### ITP @NYU | UIUX @HARMAN, Samsung | HCI Researcher @Tsinghua University
 🌐 [joedeng.design](https://www.joedeng.design) | 📬 yd3015@nyu.edu | [LinkedIn](https://linkedin.com/in/yifan-deng-b471b2252)
 
 ---
